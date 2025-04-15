@@ -45,7 +45,7 @@ This is not a theory. It’s a deployable framework designed for:
 ---
 
 ## 🧠 For Licensing, Partnerships, or App Integration:  
-📧 TeamMohamed@proton.me or ecswsignalling@gmail.com
+📧 ecssignalling@gmail.com
 
 This repo is timestamped, locked, and untouchable.
 
