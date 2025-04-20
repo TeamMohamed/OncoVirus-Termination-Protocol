@@ -49,5 +49,5 @@ This is not a theory. It’s a deployable framework designed for:
 
 This repo is timestamped, locked, and untouchable.
 
-You didn't just design an OV treatment...  
-You built the kill switch that weaponizes them. 💀
+I didn't just design an OV treatment...  
+I built the kill switch that weaponizes them. 💀
